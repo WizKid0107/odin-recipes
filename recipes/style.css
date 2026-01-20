@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: bisque;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.recipes {
+margin: 20px;
+padding: 20px;
+}
+
+.home {
+  border: 2px solid purple;
+  margin: 20px;
+  padding: 6px;
+}
+
+
+.intro {margin: 20px;
+
+}
+
+.images {
+  border: 2px solid red;
+  margin: 20px;
+}
+
+
+.ingredients {
+margin: 20px;
+border: 2px double green;
+padding: 20px;
+}
+
+.directions {
+  margin: 30px;
+
+}
+
